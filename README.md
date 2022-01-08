@@ -3,6 +3,7 @@
 - ☕ | 💧 | 🥘 is my fuel
 - 🌱 I’m currently learning Swift 🦅, Kotlin :robot: & web-dev `HTML/CSS/Java` -> `Vue & Nux`
 - :nerd_face: I currently work as a Mobile Software Test Engineer
+- 🖥️ I'm currently helping a friend develop for APPSTRM to gain more experience building a release app for a client
 - :briefcase: But I'm hoping to get a job as a :iphone: iOS developer in ther near future.
 
 <!---
