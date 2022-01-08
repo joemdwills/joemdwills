@@ -1,0 +1,10 @@
+- :raised_hands: Hi, I’m @joemdwills :wave:
+- 👀 I’m interested in :computer: | :soccer: | :muscle: & :blue_book: 
+- 🌱 I’m currently learning Swift :bird:, Kotlin :robot: & web-dev `HTML/CSS/Java` -> `Vue & Nux`
+- :nerd_face: I currently work as a Mobile Software Test Engineer
+- :briefcase: But I'm hoping to get a job as a :iphone: iOS developer in ther near future.
+
+<!---
+joemdwills/joemdwills is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+You can click the Preview link to take a look at your changes.
+--->
