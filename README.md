@@ -4,7 +4,7 @@
 - 🌱 I’m currently learning Swift 🦅, Kotlin :robot: & web-dev `HTML/CSS/Java` -> `Vue & Nux`
 - :nerd_face: I currently work as a Mobile Software Test Engineer
 - 🖥️ At evenings & weekends I develop for APPSTRM to gain more experience building a release mobile app 📱 & 🤖
-- :briefcase: But I'm hoping to get a job as a 📱 developer in ther near future.
+- :briefcase: iOS Developer @ John Lewis
 
 <!---
 joemdwills/joemdwills is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
