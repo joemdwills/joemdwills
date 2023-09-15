@@ -1,6 +1,6 @@
 - :raised_hands: Hi, I’m @joemdwills :wave:
 - 👀 I’m interested in :computer: | :muscle: & :blue_book:
-- :coffee:
+- ❤️ coffee
 - :briefcase: iOS Developer @ John Lewis Partnership using Swift 🦅 & Vapor 🐦
 - :nerd_face: I'm currently building a Functional Fitnees workout ⏱️ app
 - 🖥️ At evenings & weekends I develop for APPSTRM to gain more experience building a release mobile app 📱
