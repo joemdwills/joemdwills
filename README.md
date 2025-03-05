@@ -1,7 +1,7 @@
 - 🙌 Hi, I’m @joemdwills 👋
 - 👀 I’m interested in 💻 | ⚽ | 🏋️ & 📘
 - ❤️ coffee
-- 💼 iOS Developer @ John Lewis Partnership using Swift 🦅 & Vapor 🐦
+- 💼 iOS Developer @ Kraken Technologies using 🤖 Kotlin Multiplatform & 🦅 Swift
 - 🤓 I'm currently building a Functional Fitness workout ⏱️ app
 
 <!---
