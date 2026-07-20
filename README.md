@@ -1,7 +1,7 @@
 - 🙌 Hi, I’m @joemdwills 👋
 - 👀 I’m interested in 💻 | ⚽ | 🏋️ & 📘
 - ❤️ coffee
-- 💼 iOS Developer @ Kraken Technologies using 🤖 Kotlin Multiplatform & 🦅 Swift
+- 💼 Senior iOS Engineer @ Incard using 🦅 Swift (prev. Kraken Tech (Octopus Energy), John Lewis Partnership & Dyson)
 - 🤓 I'm currently building a Functional Fitness workout ⏱️ app
 
 <!---
